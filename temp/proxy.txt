@@ -3626,6 +3626,7 @@ DOMAIN-SUFFIX,newschinacomment.org,PROXY
 DOMAIN-SUFFIX,newscn.org,PROXY
 DOMAIN-SUFFIX,newsdetox.ca,PROXY
 DOMAIN-SUFFIX,newsdh.com,PROXY
+DOMAIN-SUFFIX,newsmax.com,PROXY
 DOMAIN-SUFFIX,newspeak.cc,PROXY
 DOMAIN-SUFFIX,newstamago.com,PROXY
 DOMAIN-SUFFIX,newstapa.org,PROXY
