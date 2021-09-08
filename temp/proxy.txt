@@ -375,6 +375,7 @@ DOMAIN-SUFFIX,asianews.it,PROXY
 DOMAIN-SUFFIX,asiansexdiary.com,PROXY
 DOMAIN-SUFFIX,asianspiss.com,PROXY
 DOMAIN-SUFFIX,asianwomensfilm.de,PROXY
+DOMAIN-SUFFIX,asiaone.com,PROXY
 DOMAIN-SUFFIX,asiatgp.com,PROXY
 DOMAIN-SUFFIX,asiatoday.us,PROXY
 DOMAIN-SUFFIX,askstudent.com,PROXY
@@ -2473,6 +2474,7 @@ DOMAIN-SUFFIX,heungkongdiscuss.com,PROXY
 DOMAIN-SUFFIX,hexieshe.com,PROXY
 DOMAIN-SUFFIX,hexieshe.xyz,PROXY
 DOMAIN-SUFFIX,hexxeh.net,PROXY
+DOMAIN-SUFFIX,heyuedi.com,PROXY
 DOMAIN-SUFFIX,heyzo.com,PROXY
 DOMAIN-SUFFIX,hgseav.com,PROXY
 DOMAIN-SUFFIX,hhdcb3office.org,PROXY
@@ -4862,6 +4864,7 @@ DOMAIN-SUFFIX,tellme.pw,PROXY
 DOMAIN-SUFFIX,tenacy.com,PROXY
 DOMAIN-SUFFIX,tensorflow.org,PROXY
 DOMAIN-SUFFIX,tenzinpalmo.com,PROXY
+DOMAIN-SUFFIX,terabox.com,PROXY
 DOMAIN-SUFFIX,tew.org,PROXY
 DOMAIN-SUFFIX,textnow.me,PROXY
 DOMAIN-SUFFIX,tfhub.dev,PROXY
