@@ -4441,6 +4441,7 @@ DOMAIN-SUFFIX,shadowsocks.com,PROXY
 DOMAIN-SUFFIX,shadowsocks.com.hk,PROXY
 DOMAIN-SUFFIX,shadowsocks.org,PROXY
 DOMAIN-SUFFIX,shadowsocks9.com,PROXY
+DOMAIN-SUFFIX,shahit.biz,PROXY
 DOMAIN-SUFFIX,shambalapost.com,PROXY
 DOMAIN-SUFFIX,shambhalasun.com,PROXY
 DOMAIN-SUFFIX,shangfang.org,PROXY
@@ -5098,6 +5099,7 @@ DOMAIN-SUFFIX,tpi.org.tw,PROXY
 DOMAIN-SUFFIX,tracfone.com,PROXY
 DOMAIN-SUFFIX,traffichaus.com,PROXY
 DOMAIN-SUFFIX,trans.wenweipo.com,PROXY
+DOMAIN-SUFFIX,translate.goog,PROXY
 DOMAIN-SUFFIX,translate.google,PROXY
 DOMAIN-SUFFIX,transparency.org,PROXY
 DOMAIN-SUFFIX,treemall.com.tw,PROXY
