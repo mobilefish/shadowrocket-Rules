@@ -3525,6 +3525,7 @@ DOMAIN-SUFFIX,mynetav.org,PROXY
 DOMAIN-SUFFIX,mynumber.org,PROXY
 DOMAIN-SUFFIX,myparagliding.com,PROXY
 DOMAIN-SUFFIX,mypicture.info,PROXY
+DOMAIN-SUFFIX,mypikpak.com,PROXY
 DOMAIN-SUFFIX,mypop3.net,PROXY
 DOMAIN-SUFFIX,mypop3.org,PROXY
 DOMAIN-SUFFIX,mypopescu.com,PROXY
