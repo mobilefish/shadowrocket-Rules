@@ -1116,6 +1116,7 @@ DOMAIN-SUFFIX,coinbene.com,PROXY
 DOMAIN-SUFFIX,coinegg.com,PROXY
 DOMAIN-SUFFIX,coinex.com,PROXY
 DOMAIN-SUFFIX,coingi.com,PROXY
+DOMAIN-SUFFIX,coinmarketcap.com,PROXY
 DOMAIN-SUFFIX,coinrail.co.kr,PROXY
 DOMAIN-SUFFIX,cointiger.com,PROXY
 DOMAIN-SUFFIX,cointobe.com,PROXY
@@ -1895,6 +1896,7 @@ DOMAIN-SUFFIX,frootvpn.com,PROXY
 DOMAIN-SUFFIX,fscked.org,PROXY
 DOMAIN-SUFFIX,fsurf.com,PROXY
 DOMAIN-SUFFIX,ftchinese.com,PROXY
+DOMAIN-SUFFIX,ftp.com,PROXY
 DOMAIN-SUFFIX,ftp1.biz,PROXY
 DOMAIN-SUFFIX,ftpserver.biz,PROXY
 DOMAIN-SUFFIX,ftv.com.tw,PROXY
@@ -5098,7 +5100,7 @@ DOMAIN-SUFFIX,toytractorshow.com,PROXY
 DOMAIN-SUFFIX,tparents.org,PROXY
 DOMAIN-SUFFIX,tpi.org.tw,PROXY
 DOMAIN-SUFFIX,tracfone.com,PROXY
-DOMAIN-SUFFIX,traffichaus.com,PROXY
+DOMAIN-SUFFIX,tradingview.com,PROXY
 DOMAIN-SUFFIX,trans.wenweipo.com,PROXY
 DOMAIN-SUFFIX,translate.goog,PROXY
 DOMAIN-SUFFIX,translate.google,PROXY
