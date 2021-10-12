@@ -2604,6 +2604,7 @@ DOMAIN-SUFFIX,hopedialogue.org,PROXY
 DOMAIN-SUFFIX,hopto.org,PROXY
 DOMAIN-SUFFIX,hornygamer.com,PROXY
 DOMAIN-SUFFIX,hornytrip.com,PROXY
+DOMAIN-SUFFIX,horrorporn.com,PROXY
 DOMAIN-SUFFIX,hostloc.com,PROXY
 DOMAIN-SUFFIX,hotair.com,PROXY
 DOMAIN-SUFFIX,hotav.tv,PROXY
