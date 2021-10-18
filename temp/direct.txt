@@ -42458,6 +42458,7 @@ DOMAIN-SUFFIX,natertech.com,DIRECT
 DOMAIN-SUFFIX,nationalchip.com,DIRECT
 DOMAIN-SUFFIX,nationsky.com,DIRECT
 DOMAIN-SUFFIX,nationstech.com,DIRECT
+DOMAIN-SUFFIX,nattest-china.com,DIRECT
 DOMAIN-SUFFIX,naturali.io,DIRECT
 DOMAIN-SUFFIX,naturallyariana.com,DIRECT
 DOMAIN-SUFFIX,nature-museum.net,DIRECT
