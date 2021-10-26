@@ -3705,6 +3705,7 @@ DOMAIN-SUFFIX,nordstrom.com,PROXY
 DOMAIN-SUFFIX,nordstromimage.com,PROXY
 DOMAIN-SUFFIX,nordstromrack.com,PROXY
 DOMAIN-SUFFIX,nordvpn.com,PROXY
+DOMAIN-SUFFIX,notepad-plus-plus.org,PROXY
 DOMAIN-SUFFIX,notify.dropboxapi.com,PROXY
 DOMAIN-SUFFIX,notion.so,PROXY
 DOMAIN-SUFFIX,nottinghampost.com,PROXY
@@ -4222,6 +4223,7 @@ DOMAIN-SUFFIX,raremovie.cc,PROXY
 DOMAIN-SUFFIX,raremovie.net,PROXY
 DOMAIN-SUFFIX,rateyourmusic.com,PROXY
 DOMAIN-SUFFIX,rationalwiki.org,PROXY
+DOMAIN-SUFFIX,raw.githack.com,PROXY
 DOMAIN-SUFFIX,raw.githubusercontent.com,PROXY
 DOMAIN-SUFFIX,rawgit.com,PROXY
 DOMAIN-SUFFIX,rawgithub.com,PROXY
