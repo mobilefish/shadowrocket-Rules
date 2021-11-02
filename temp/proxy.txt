@@ -395,6 +395,7 @@ DOMAIN-SUFFIX,athenaeizou.com,PROXY
 DOMAIN-SUFFIX,atlanta168.com,PROXY
 DOMAIN-SUFFIX,atlaspost.com,PROXY
 DOMAIN-SUFFIX,atnext.com,PROXY
+DOMAIN-SUFFIX,auctions.yahoo.co.jp,PROXY
 DOMAIN-SUFFIX,auntology.fandom.com,PROXY
 DOMAIN-SUFFIX,authorizeddns.net,PROXY
 DOMAIN-SUFFIX,authorizeddns.org,PROXY
@@ -3781,6 +3782,7 @@ DOMAIN-SUFFIX,nytimg.com,PROXY
 DOMAIN-SUFFIX,nytstyle.com,PROXY
 DOMAIN-SUFFIX,nzchinese.com,PROXY
 DOMAIN-SUFFIX,nzchinese.net.nz,PROXY
+DOMAIN-SUFFIX,oanda.com,PROXY
 DOMAIN-SUFFIX,observechina.net,PROXY
 DOMAIN-SUFFIX,obutu.com,PROXY
 DOMAIN-SUFFIX,ocaspro.com,PROXY
@@ -5993,6 +5995,7 @@ DOMAIN-SUFFIX,yx51.net,PROXY
 DOMAIN-SUFFIX,yyii.org,PROXY
 DOMAIN-SUFFIX,yyjlymb.xyz,PROXY
 DOMAIN-SUFFIX,yzzk.com,PROXY
+DOMAIN-SUFFIX,z-lib.org,PROXY
 DOMAIN-SUFFIX,zacebook.com,PROXY
 DOMAIN-SUFFIX,zalmos.com,PROXY
 DOMAIN-SUFFIX,zannel.com,PROXY
