@@ -13,7 +13,7 @@ def get_index(lines):
 
 def get_lhie1():
     res = requests.get(
-        'https://raw.fastgit.org/lhie1/Rules/master/Shadowrocket/Complete.conf')
+        'https://cdn.jsdelivr.net/gh/lhie1/Rules@master/Shadowrocket/Complete.conf')
     if res.status_code != 200:
         raise Exception('Connect error')
     return res.text.split('\n')
