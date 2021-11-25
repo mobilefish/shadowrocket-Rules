@@ -26,7 +26,9 @@ IP-CIDR,59.111.128.0/17,no-resolve,网易云音乐
 IP-CIDR,59.111.21.14/31,no-resolve,网易云音乐
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90,网易云音乐
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,网易云音乐
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,网易云音乐
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**,网易云音乐
+USER-AGENT,NeteaseMusic*,网易云音乐
 USER-AGENT,NeteaseMusic*,网易云音乐
 USER-AGENT,NeteaseMusic**,网易云音乐
 USER-AGENT,网易云音乐*,网易云音乐
