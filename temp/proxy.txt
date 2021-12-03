@@ -1071,6 +1071,7 @@ DOMAIN-SUFFIX,clinica-tibet.ru,PROXY
 DOMAIN-SUFFIX,clipfish.de,PROXY
 DOMAIN-SUFFIX,cloakpoint.com,PROXY
 DOMAIN-SUFFIX,cloud.mail.ru,PROXY
+DOMAIN-SUFFIX,cloudflare-ipfs.com,PROXY
 DOMAIN-SUFFIX,club1069.com,PROXY
 DOMAIN-SUFFIX,clubhouseapi.com,PROXY
 DOMAIN-SUFFIX,clyp.it,PROXY
@@ -4103,6 +4104,7 @@ DOMAIN-SUFFIX,privateinternetaccess.com,PROXY
 DOMAIN-SUFFIX,privatepaste.com,PROXY
 DOMAIN-SUFFIX,privatetunnel.com,PROXY
 DOMAIN-SUFFIX,privatevpn.com,PROXY
+DOMAIN-SUFFIX,privoxy.org,PROXY
 DOMAIN-SUFFIX,procopytips.com,PROXY
 DOMAIN-SUFFIX,project-syndicate.org,PROXY
 DOMAIN-SUFFIX,prosiben.de,PROXY
