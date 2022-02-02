@@ -22,9 +22,9 @@ values = {
 }
 
 def gen_file(name):
-    template_file = open(os.getcwd() + '/template/' + name + '-template.conf', mode='r', encoding='utf-8')
+    template_file = open('template/' + name, mode='r', encoding='utf-8')
     template = template_file.read()
-    output_file = open(os.getcwd() + '/gen/' + name +'.conf', mode='w', encoding='utf-8')
+    output_file = open(os.getcwd() + '/gen/' + name, mode='w', encoding='utf-8')
     marks = re.findall(r'{{(.+)}}', template)
     for mark in marks:
         template = template.replace('{{' + mark + '}}', values[mark])
@@ -32,14 +32,7 @@ def gen_file(name):
     template_file.close()
     output_file.close()
 
-file_names = [
-    'black-ad-netease',
-    'black-ad',
-    'black-netease',
-    'white-ad-netease',
-    'white-netease',
-]
-
 if __name__ == '__main__':
+    file_names = os.listdir("template")
     for name in file_names:
         gen_file(name)

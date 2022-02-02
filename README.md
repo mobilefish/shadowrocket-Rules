@@ -47,11 +47,11 @@ Thank [Github Actions教程](https://cloud.tencent.com/developer/article/1643440
 
 ## 规则地址
 
-### black-netease.conf (🌟推荐使用)
+### gfw-netease.conf (🌟推荐使用)
 
-Raw地址：https://raw.githubusercontent.com/xiangsanliu/Rules/main/gen/black-netease.conf
+Raw地址：https://raw.githubusercontent.com/xiangsanliu/Rules/main/gen/gfw-netease.conf
 
-CDN地址：https://cdn.jsdelivr.net/gh/xiangsanliu/Rules/gen/black-netease.conf
+CDN地址：https://cdn.jsdelivr.net/gh/xiangsanliu/Rules/gen/gfw-netease.conf
 
 * 代理：被墙的网址
 * 直连：其他网址
@@ -77,11 +77,11 @@ CDN地址：https://cdn.jsdelivr.net/gh/xiangsanliu/Rules/gen/white-netease.conf
 * 音乐解锁
 * 规则比较庞大，可能影响效率
 
-### black-ad-netease.conf
+### gfw-ad-netease.conf
 
-Raw地址：https://raw.githubusercontent.com/xiangsanliu/Rules/main/gen/black-ad-netease.conf
+Raw地址：https://raw.githubusercontent.com/xiangsanliu/Rules/main/gen/gfw-ad-netease.conf
 
-CDN地址：https://cdn.jsdelivr.net/gh/xiangsanliu/Rules/gen/black-ad-netease.conf
+CDN地址：https://cdn.jsdelivr.net/gh/xiangsanliu/Rules/gen/gfw-ad-netease.conf
 
 * 代理：被墙的网址
 * 直连：其他网址
