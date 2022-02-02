@@ -121,5 +121,8 @@ CDN地址：https://cdn.jsdelivr.net/gh/xiangsanliu/Rules/gen/white-ad-netease.c
 > 今天刚刚得知[h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules)项目已停止维护，故本项目中的[merge-h2y.conf](merge-h2y.conf)也只能停更了。
 > --- 2021-04-13
 
+> [lhie1/Rules](https://github.com/lhie1/Rules/tree/master) 仓库被禁用了，不知道什么时候能恢复，所以[merge-lhie1.conf](merge-lhie1.conf)也暂时停更了。
+> --- 2022-02-02
+
 > 纯python小白，写的脚本很简单，欢迎批评指正。
 
