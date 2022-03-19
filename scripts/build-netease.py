@@ -6,7 +6,9 @@ import base64
 
 def get_netease():
     res = requests.get(
-        'https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script/rule/Shadowrocket/NetEaseMusic/NetEaseMusic.list')
+        # 'https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script/rule/Shadowrocket/NetEaseMusic/NetEaseMusic.list'
+        'https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/NetEaseMusic.list'
+        )
     if res.status_code != 200:
         raise Exception('Connect error')
     return res.text
