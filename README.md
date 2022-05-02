@@ -25,7 +25,9 @@
 > 
 > 也可以使用我从DesperadoJ大佬那转换好的节点：[node.txt](https://cdn.jsdelivr.net/gh/xiangsanliu/Rules/node.txt)
 
-### 2. 将[规则地址](#规则地址)填入 Shadowrocket
+### 2. 将模块地址`https://cdn.jsdelivr.net/gh/xiangsanliu/Rules/sgmodule/netease.sgmodule`填入 `Shadowrocket -> 模块 -> 右上角+号`，再点击确定。
+
+> ❗️经过反复试验，似乎开启MITM后，解锁不生效。
 
 ## 自定义开发
 
@@ -45,59 +47,13 @@ Thank [Github Actions教程](https://cloud.tencent.com/developer/article/1643440
 
 ### 3. Do something.
 
-## 规则地址
+## 模块地址
 
-### gfw-netease.conf (🌟推荐使用)
+### 网易云解锁模块
+`https://cdn.jsdelivr.net/gh/xiangsanliu/Rules/sgmodule/netease.sgmodule`
 
-Raw地址：https://raw.githubusercontent.com/xiangsanliu/Rules/main/gen/gfw-netease.conf
-
-CDN地址：https://cdn.jsdelivr.net/gh/xiangsanliu/Rules/gen/gfw-netease.conf
-
-* 代理：被墙的网址
-* 直连：其他网址
-* 音乐解锁
-
-### merge-lhie1.conf (🌟推荐使用)
-
-Raw地址：https://raw.githubusercontent.com/xiangsanliu/Rules/main/merge-lhie1.conf
-
-CDN地址：https://cdn.jsdelivr.net/gh/xiangsanliu/Rules/merge-lhie1.conf
-
-* 合并自 [lhie1/Rules](https://github.com/lhie1/Rules/tree/master)
-* 音乐解锁
-
-### white-netease.conf
-
-Raw地址：https://raw.githubusercontent.com/xiangsanliu/Rules/main/gen/white-netease.conf
-
-CDN地址：https://cdn.jsdelivr.net/gh/xiangsanliu/Rules/gen/white-netease.conf
-
-* 直连：可以直连的网址
-* 代理：其他网址
-* 音乐解锁
-* 规则比较庞大，可能影响效率
-
-### gfw-ad-netease.conf
-
-Raw地址：https://raw.githubusercontent.com/xiangsanliu/Rules/main/gen/gfw-ad-netease.conf
-
-CDN地址：https://cdn.jsdelivr.net/gh/xiangsanliu/Rules/gen/gfw-ad-netease.conf
-
-* 代理：被墙的网址
-* 直连：其他网址
-* 广告过滤 + 音乐解锁
-* 规则比较庞大，可能影响效率
-
-### white-ad-netease.conf
-
-Raw地址：https://raw.githubusercontent.com/xiangsanliu/Rules/main/gen/white-ad-netease.conf
-
-CDN地址：https://cdn.jsdelivr.net/gh/xiangsanliu/Rules/gen/white-ad-netease.conf
-
-* 直连：可以直连的网址
-* 代理：其他网址
-* 广告过滤 + 音乐解锁
-* 规则比较庞大，可能影响效率
+### 广告屏蔽模块
+`https://cdn.jsdelivr.net/gh/xiangsanliu/Rules/sgmodule/ad.sgmodule`
 
 ## 关于广告屏蔽
 
