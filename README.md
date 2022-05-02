@@ -25,7 +25,11 @@
 > 
 > 也可以使用我从DesperadoJ大佬那转换好的节点：[node.txt](https://cdn.jsdelivr.net/gh/xiangsanliu/Rules/node.txt)
 
-### 2. 将模块地址`https://cdn.jsdelivr.net/gh/xiangsanliu/Rules/sgmodule/netease.sgmodule`填入 `Shadowrocket -> 模块 -> 右上角+号`，再点击确定。
+### 2. 安装解锁模块
+
+模块地址：`https://cdn.jsdelivr.net/gh/xiangsanliu/Rules/sgmodule/netease.sgmodule`
+
+安装步骤：`Shadowrocket -> 模块 -> 右上角+号`，在输入框中粘贴，再点击确定。
 
 > ❗️经过反复试验，似乎开启MITM后，解锁不生效。
 
