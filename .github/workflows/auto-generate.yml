@@ -29,6 +29,7 @@ jobs:
         python3 ./scripts/build-netease.py
         python3 ./scripts/build-node.py
         python3 ./scripts/build-sgmodule.py
+        python3 ./scripts/merge-h2y.py
         python3 ./scripts/gen-final.py
     - name: Commit
       run: |
