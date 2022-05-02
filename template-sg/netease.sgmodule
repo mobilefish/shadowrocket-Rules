@@ -1,0 +1,5 @@
+#!name=网易云音乐解锁
+#!desc=网易云音乐解锁
+
+[Rule]
+{{netease}}

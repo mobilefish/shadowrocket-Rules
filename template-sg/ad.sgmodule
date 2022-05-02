@@ -1,0 +1,5 @@
+#!name=anti-AD
+#!desc=https://anti-ad.net/
+
+[Rule]
+{{ad}}
