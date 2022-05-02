@@ -2,14 +2,14 @@
 
 git pull
 
-python3 ./scripts/build-ad.py
-python3 ./scripts/build-telegram.py
-python3 ./scripts/build-direct.py
-python3 ./scripts/build-proxy.py
-python3 ./scripts/build-netease.py
-python3 ./scripts/build-node.py
-# python3 ./scripts/merge-lhie1.py
-python3 ./scripts/gen-final.py
+python ./scripts/build-ad.py
+python ./scripts/build-telegram.py
+python ./scripts/build-direct.py
+python ./scripts/build-proxy.py
+python ./scripts/build-netease.py
+python ./scripts/build-node.py
+# python ./scripts/merge-lhie1.py
+python ./scripts/gen-final.py
 
 git add .
 git commit -m "manual update" -a
