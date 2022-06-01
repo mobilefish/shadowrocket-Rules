@@ -2,4 +2,4 @@
 #!desc=CUG解锁
 
 [Script]
-hh = type=http-response,script-path=https://raw.githubusercontent.com/xiangsanliu/Rules/main/scripts/cug.js,pattern=^http:\/\/xycrgl\.cug\.edu\.cn\/reserve\.php\/reserve\/myindex,max-size=131072,timeout=10,script-update-interval=0,enable=true
+cug = type=http-response,script-path=https://raw.githubusercontent.com/xiangsanliu/Rules/main/scripts/cug.js,pattern=^http:\/\/xycrgl\.cug\.edu\.cn\/reserve\.php\/reserve\/myindex,max-size=131072,timeout=10,script-update-interval=0,enable=true
