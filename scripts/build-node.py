@@ -6,7 +6,7 @@ import os
 # node file from https://github.com/DesperadoJ/Rules-for-UnblockNeteaseMusic
 
 def get_node():
-    res = requests.get('https://cdn.jsdelivr.net/gh/DesperadoJ/Rules-for-UnblockNeteaseMusic/Shadowrocket/shadowrocket-server.txt')
+    res = requests.get("https://github.com/DesperadoJ/Rules-for-UnblockNeteaseMusic/raw/master/Shadowrocket/shadowrocket-server.txt")
     if res.status_code != 200:
         raise Exception('Connect error')
     return res.text
