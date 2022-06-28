@@ -189,7 +189,6 @@ DOMAIN,oscdn.origin-apple.com.akadns.net,DIRECT
 DOMAIN,osxapps.itunes.apple.com,DIRECT
 DOMAIN,overwatch.nosdn.127.net,DIRECT
 DOMAIN,p1-juejin.byteimg.com,DIRECT
-DOMAIN,p16-tiktokcdn-com.akamaized.net,DIRECT
 DOMAIN,p2-juejin.byteimg.com,DIRECT
 DOMAIN,p3-juejin.byteimg.com,DIRECT
 DOMAIN,p4-juejin.byteimg.com,DIRECT
@@ -12892,7 +12891,6 @@ DOMAIN-SUFFIX,bytemastatic.com,DIRECT
 DOMAIN-SUFFIX,byteoc.com,DIRECT
 DOMAIN-SUFFIX,byteorg.com,DIRECT
 DOMAIN-SUFFIX,byteorge.com,DIRECT
-DOMAIN-SUFFIX,byteoversea.com,DIRECT
 DOMAIN-SUFFIX,bytescm.com,DIRECT
 DOMAIN-SUFFIX,bytesfield.com,DIRECT
 DOMAIN-SUFFIX,bytesmanager.com,DIRECT
@@ -21544,7 +21542,6 @@ DOMAIN-SUFFIX,elvhome.com,DIRECT
 DOMAIN-SUFFIX,elvshi.com,DIRECT
 DOMAIN-SUFFIX,elvxing.net,DIRECT
 DOMAIN-SUFFIX,elxk.com,DIRECT
-DOMAIN-SUFFIX,emacs-china.org,DIRECT
 DOMAIN-SUFFIX,emadao.com,DIRECT
 DOMAIN-SUFFIX,emaileds.com,DIRECT
 DOMAIN-SUFFIX,emailflame.com,DIRECT
@@ -40977,7 +40974,6 @@ DOMAIN-SUFFIX,mupceet.com,DIRECT
 DOMAIN-SUFFIX,murdermysterypa.com,DIRECT
 DOMAIN-SUFFIX,murl.tv,DIRECT
 DOMAIN-SUFFIX,muryi.net,DIRECT
-DOMAIN-SUFFIX,muscdn.com,DIRECT
 DOMAIN-SUFFIX,muse-ui.org,DIRECT
 DOMAIN-SUFFIX,muselab-tech.com,DIRECT
 DOMAIN-SUFFIX,mushafa.net,DIRECT
@@ -40986,7 +40982,6 @@ DOMAIN-SUFFIX,mushroomchina.com,DIRECT
 DOMAIN-SUFFIX,music.apple.com,DIRECT
 DOMAIN-SUFFIX,music163.com,DIRECT
 DOMAIN-SUFFIX,music4x.com,DIRECT
-DOMAIN-SUFFIX,musical.ly,DIRECT
 DOMAIN-SUFFIX,musicchina-expo.com,DIRECT
 DOMAIN-SUFFIX,musicdu.com,DIRECT
 DOMAIN-SUFFIX,musiceol.com,DIRECT
@@ -53073,14 +53068,10 @@ DOMAIN-SUFFIX,tijianbao.com,DIRECT
 DOMAIN-SUFFIX,tijianka.cc,DIRECT
 DOMAIN-SUFFIX,tijianshangmen.com,DIRECT
 DOMAIN-SUFFIX,tijianzhuanjia.com,DIRECT
-DOMAIN-SUFFIX,tik-tokapi.com,DIRECT
 DOMAIN-SUFFIX,tikane.com,DIRECT
 DOMAIN-SUFFIX,tikersport.com,DIRECT
 DOMAIN-SUFFIX,tikimg.cc,DIRECT
 DOMAIN-SUFFIX,tiklink.cc,DIRECT
-DOMAIN-SUFFIX,tiktok.com,DIRECT
-DOMAIN-SUFFIX,tiktokcdn.com,DIRECT
-DOMAIN-SUFFIX,tiktokv.com,DIRECT
 DOMAIN-SUFFIX,tikuol.com,DIRECT
 DOMAIN-SUFFIX,tillcn.com,DIRECT
 DOMAIN-SUFFIX,tillglance.com,DIRECT
