@@ -10,6 +10,8 @@ python ./scripts/build-proxy.py
 python ./scripts/build-netease.py
 python ./scripts/build-node.py
 python ./scripts/build-sgmodule.py
+python ./scripts/build-adlite.py
+python ./scripts/build-adlite-clash.py
 python ./scripts/gen-final.py
 
 git add .

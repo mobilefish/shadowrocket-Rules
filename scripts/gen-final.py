@@ -19,6 +19,7 @@ values = {
     'ad': get_from_file(os.getcwd() + '/temp/ad.txt'),
     'telegram': get_from_file(os.getcwd() + '/temp/telegram.txt'),
     'custom': get_from_file(os.getcwd() + '/temp/custom.txt'),
+    'adlite': get_from_file(os.getcwd() + '/temp/adlite.txt'),
 }
 
 def gen_file(name):
