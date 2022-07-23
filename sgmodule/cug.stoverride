@@ -1,0 +1,17 @@
+name: CUG解锁
+desc: CUG解锁
+
+http:
+  mitm:
+    - "xycrgl.cug.edu.cn"
+  script:
+    - match: ^http:\/\/xycrgl\.cug\.edu\.cn\/reserve\.php\/reserve\/myindex
+      name: cug
+      type: response
+      require-body: true
+      timeout: 20
+      
+script-providers:
+  JD_Price:
+    url: https://github.com/xiangsanliu/Rules/raw/main/scripts/cug.js
+    interval: 86400
