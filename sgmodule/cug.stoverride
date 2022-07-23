@@ -12,6 +12,6 @@ http:
       timeout: 20
       
 script-providers:
-  JD_Price:
+  cug:
     url: https://github.com/xiangsanliu/Rules/raw/main/scripts/cug.js
     interval: 86400
