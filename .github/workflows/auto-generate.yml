@@ -28,7 +28,6 @@ jobs:
         python3 ./scripts/build-proxy.py
         python3 ./scripts/build-netease.py
         python3 ./scripts/build-node.py
-        python3 ./scripts/build-sgmodule.py
         python3 ./scripts/merge-h2y.py
         python3 ./scripts/gen-final.py
         python3 ./scripts/build-adlite-clash.py
