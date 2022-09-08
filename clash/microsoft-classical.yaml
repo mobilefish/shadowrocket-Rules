@@ -1,7 +1,7 @@
 payload:
-  - DOMAIN-KEYWORD,microsoft
-  - DOMAIN-KEYWORD,onedrive
   - PROCESS-NAME,onedriveupdater
-  - DOMAIN-KEYWORD,skydrive
   - PROCESS-NAME,onedrive
+  - DOMAIN-KEYWORD,microsoft
+  - DOMAIN-KEYWORD,skydrive
+  - DOMAIN-KEYWORD,onedrive
   - DOMAIN-KEYWORD,1drv
