@@ -5,7 +5,7 @@ http:
   mitm:
     - "xycrgl.cug.edu.cn"
   script:
-    - match: ^http:\/\/xycrgl\.cug\.edu\.cn\/reserve\.php\/reserve\/myindex
+    - match: ^http:\/\/xycrgl\.cug\.edu\.cn\/reserve\.php\/reserve\/(zhaji|myindex)
       name: cug
       type: response
       require-body: true
