@@ -13,5 +13,5 @@ http:
       
 script-providers:
   cug:
-    url: https://github.com/xiangsanliu/Rules/raw/main/scripts/cug.js
+    url: https://raw.githubusercontent.com/xiangsanliu/Rules/main/scripts/cug.js
     interval: 86400
